@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Tasin Chowdhury
-- 👀 I’m interested in building projects that solve real-world problems.
-- 🌱 I’m currently learning Nextjs, Redux and relevant libaries/frameworks. 
-- 💞️ I’m looking to collaborate with team of interns.
-- 📫 Reach me through tasinchowdhury26@gmail.com
+- 🚀 Frontend Enthusiast | MERN Stack Developer
+- 💻 Exploring the digital frontier one code at a time.
+- 🌐 Building web experiences with Next.js, crafting APIs with Express, and storing data in MongoDB.
+- 🎨 Passionate about creating intuitive and visually appealing user interfaces.
+- 📫 Let's connect and collaborate on exciting projects!
 
 <!---
 tasinchowdhury26/tasinchowdhury26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
